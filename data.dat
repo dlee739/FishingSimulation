@@ -1,0 +1,48 @@
+[2024-08-31 // 10:20 PM] 01:12:53
+
+작살총 
+[2024-08-31] 01:02:50
+01:03:30
+
+V3
+00:53:03
+00:44:48
+
+
+V4 by the chair
+
+CPS = 5.2
+CPS_CONSECUTIVE = 6                  
+CHANCE_INITIAL_FAIL = 0
+CHANCE_HUMAN_ERROR = 3
+
+[REPORT] Time Taken: 00:42:07
+[REPORT] Total Casts & Reels: 131
+[REPORT] Average Cast Duration: 10.1799 seconds
+[REPORT] Average Tug Duration: 6.2257 seconds
+
+
+V4 by the isolated place
+
+CPS = 4.5
+CPS_CONSECUTIVE = 4.5                
+CHANCE_INITIAL_FAIL = 0
+CHANCE_HUMAN_ERROR = 3
+
+[REPORT] Time Taken: 00:46:50
+[REPORT] Total Casts & Reels: 137
+[REPORT] Average Cast Duration: 10.8724 seconds
+[REPORT] Average Tug Duration: 6.6601 seconds
+
+
+V4 by the chair
+
+CPS = 5
+CPS_CONSECUTIVE = 5               
+CHANCE_INITIAL_FAIL = 0
+CHANCE_HUMAN_ERROR = 3
+
+[REPORT] Time Taken: 00:41:39
+[REPORT] Total Casts & Reels: 130
+[REPORT] Average Cast Duration: 10.1724 seconds
+[REPORT] Average Tug Duration: 6.0546 seconds
